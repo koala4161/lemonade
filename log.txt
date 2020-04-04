@@ -1,0 +1,23 @@
+commit bbfa14a0180625e3dbbe8f058a3e22e0239e4ff0
+Author: EC2 Default User <ec2-user@ip-172-31-41-140.us-east-2.compute.internal>
+Date:   Sat Apr 4 16:28:46 2020 +0000
+
+    added mint
+
+commit 608044522962f09ea5e079ed9df83a803af54e97
+Author: EC2 Default User <ec2-user@ip-172-31-41-140.us-east-2.compute.internal>
+Date:   Sat Apr 4 16:26:54 2020 +0000
+
+    sugar added
+
+commit 2f9a028a7585dffc9d2177b277dc97719f919445
+Author: EC2 Default User <ec2-user@ip-172-31-41-140.us-east-2.compute.internal>
+Date:   Sat Apr 4 16:21:38 2020 +0000
+
+    added ingredients lemon water
+
+commit 682c8fd704d6336b2a725a8b7766a85164db485f
+Author: EC2 Default User <ec2-user@ip-172-31-41-140.us-east-2.compute.internal>
+Date:   Sat Apr 4 15:50:37 2020 +0000
+
+    This is my first lemonade receipe
