@@ -2,3 +2,7 @@ lemonade
 
 ingredients
 
+5 lemons
+5 lt water
+200 gr sugar
+
